@@ -2,9 +2,13 @@
 
 A Programmer — thinking in algorithms.
 - 🌱 I’m currently learning Data Analytics & WebD
+<br>
 **Postgres SQL, MERN Stack Development**
+<br>
   . 💬 Ask me about Artificial Intelligence
+<br>
   . 📫 How to reach me: piyush591341@gmail.com
+<br>
   
 
 <!--

@@ -12,8 +12,8 @@ _PostgreSQL, Statistics & Linear Algrbra_
 <h3 align="left">Language & Tools</h3>
 <p> align="left">
 	<img src="  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,postgres,git,github,vscode,linux" />
+</p>
 
-</p> 
 
 <!--
 A Programmer — thinking in algorithms.

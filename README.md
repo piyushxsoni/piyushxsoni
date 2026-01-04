@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Piyush Soni</h1>
-<h3 align="center">A Programmer — thinking in algorithms.</h3>
+<h3 align="center" style="font-size: 100px;">
+  A Programmer — thinking in algorithms.
+</h3>
+
 
 🌱 I'm currently learning **Data Analytics & WebD**   
 _PostgreSQL, Statistics & Linear Algrbra_
@@ -8,6 +11,7 @@ _PostgreSQL, Statistics & Linear Algrbra_
 
 📫 **How to reach me**
 - 📧 Email: **piyush591341@gmail.com**
+- 📧 Linkdin **https://www.linkedin.com/in/piyush-soni-44325531a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
 
 <h3 align="left">Language & Tools</h3>
 <p>

@@ -15,7 +15,7 @@ _PostgreSQL, Statistics & Linear Algrbra_
 
 <h3 align="left">Language & Tools</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,html,css,postgres,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,jupyter,mysql,html,css,postgres,git,github,vscode,java,Anaconda,linux" />
 </p>
 
 

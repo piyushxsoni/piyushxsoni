@@ -1,4 +1,4 @@
-<img src="images.jpeg" width="500" height="600">
+![How to Push Yourself Beyond Your Limits](motivation.jpg)
 <h1 align="center">Hi 👋, I'm Piyush Soni</h1>
 <h3 align="center" style="font-size: 100px;">
   Turning coffee into clean code ☕

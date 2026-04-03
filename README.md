@@ -6,7 +6,7 @@
 
 
 🌱 I'm currently learning **Data Analytics & WebD**   
-_PostgreSQL, Statistics & Linear Algrbra_
+_Statistics & Linear Algrbra_
 
 💬 Ask me about **Artificial Intelligence**  
 

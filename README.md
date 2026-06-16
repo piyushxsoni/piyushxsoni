@@ -6,7 +6,7 @@
 
 
 🌱 I'm currently learning **Data Analytics & WebD**   
-_Statistics & Linear Algrbra_
+Power BI_
 
 💬 Ask me about **Artificial Intelligence**  
 

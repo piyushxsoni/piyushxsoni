@@ -1,4 +1,3 @@
-<img src="images.jpeg" width="600" alt="Motivation">
 <h1 align="center">Hi 👋, I'm Piyush Soni</h1>
 <h3 align="center" style="font-size: 100px;">
   Turning coffee into clean code ☕

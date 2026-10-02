@@ -1,39 +1,66 @@
 <h1 align="center">Hi 👋, I'm Piyush Soni</h1>
-<h3 align="center" style="font-size: 100px;">
-  Turning coffee into clean code ☕
+
+<h3 align="center">
+  BCA (AI & ML) Student | Full-Stack Developer | Data & AI Enthusiast
 </h3>
 
-
-🌱 I'm currently learning **Data Analytics & WebD**   
-Power BI_
-
-💬 Ask me about **Artificial Intelligence**  
-
-📫 **How to reach me**
-- 📧 Email: **piyush591341@gmail.com**
-- 🔵 Linkdin **https://www.linkedin.com/in/piyush-soni-44325531a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
-
-<h3 align="left">Language & Tools</h3>
-<p>
- <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,postgres,git,github,vscode,java,anaconda,linux" />
+<p align="center">
+  <i>Building practical applications with code, data, and AI 🤖</i>
 </p>
 
+---
 
+### 👨‍💻 About Me
+
+* 🎓 BCA in **Artificial Intelligence & Machine Learning** at JECRC University
+* 💻 Currently building **Full-Stack Web Applications & Agentic AI Projects**
+* 📊 Learning and working with **Data Analytics, SQL, Excel & Power BI**
+* 🤖 Interested in **Generative AI, LLMs, Agentic AI & Automation**
+* 🧠 Practicing **DSA, Computer Science fundamentals & problem solving**
+* 🚀 Always learning new technologies and building projects
+
+### 🛠️ Languages & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,html,css,react,nextjs,nodejs,express,postgres,mysql,mongodb,git,github,vscode,linux,docker" />
 </p>
 
+### 📊 Data & AI
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-<!--
-A Programmer — thinking in algorithms.
-Here are some ideas to get you started:
+**Data:** Pandas • NumPy • Matplotlib • SQL • Excel • Power BI
+**AI:** Generative AI • LLMs • Agentic AI • AI APIs • Machine Learning fundamentals
 
-- 🔭 I’m currently working on ...
+### 🚀 Featured Projects
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+* 🤖 **Agentic Calendar Assistant** — Full-stack agentic AI meeting assistant using Google Calendar, Node.js/TypeScript and PostgreSQL.
+* 🚀 **ASTRA** — AI-based astronaut assistance system developed for Smart India Hackathon 2026.
+* 📋 **Amazing Kanban** — Drag-and-drop task management application using HTML, CSS and JavaScript with LocalStorage.
+* 🏦 **Banking Management System** — Python + Streamlit application implementing OOP, account management and JSON-based data handling.
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Achievements
+
+* 🥇 **Smart India Hackathon 2026 — Top 5**
+* 🏅 Internal SIH selection: **5th among 550 teams**
+* 🤖 Oracle Cloud Infrastructure **Generative AI Professional** Certified
+
+### 📈 Coding & Problem Solving
+
+* 💡 Solving problems on **LeetCode**
+* 🧩 Practicing **DSA, SQL & programming fundamentals**
+* 🔢 Focus areas: Arrays, Strings, Hashing, Recursion, Searching, Sorting, Linked Lists & Stacks
+
+### 📫 Connect With Me
+
+* 📧 Email: **[piyush591341@gmail.com](mailto:piyush591341@gmail.com)**
+* 💼 LinkedIn: **[Piyush Soni](https://www.linkedin.com/in/piyushsoni01official/)**
+* 💻 GitHub: **[piyushxsoni](https://github.com/piyushxsoni)**
+
+---
+
+<p align="center">
+  <i>☕ Code. Build. Learn. Repeat.</i>
+</p>
